@@ -7,7 +7,8 @@ html, body {
 
 body {
   /*background: url(../images/backgrounds/architecture.jpg) center no-repeat;*/
-  background-color: rgba(0, 64, 255,0.50);
+  /*background-color: rgba(0, 64, 255,0.50);*/
+  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
